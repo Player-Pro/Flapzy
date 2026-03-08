@@ -26,4 +26,4 @@ Just double-click `index.html` or drag it into your browser. That's it!
 
 ## Made by
 
-[Your name here
+[Player-Pro
